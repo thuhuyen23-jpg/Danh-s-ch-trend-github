@@ -2,7 +2,6 @@ Danh sách các Repository về Legal AI được tổng hợp tự động.
 
 | Tên Dự Án | Link GitHub |
 | :--- | :--- |
-| DocuNavigator | [https://github.com/m-v-p/DocuNavigator](https://github.com/m-v-p/DocuNavigator) |
 | AI-legal-claude | [https://github.com/zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) |
 | OpenContracts | [https://github.com/Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) |
 | Docassemble | [https://github.com/jhpyle/docassemble](https://github.com/jhpyle/docassemble) |
